@@ -1,5 +1,4 @@
 
-````markdown
 # 🌐🧠 Multilingual Sentiment Analysis Web App
 
 This is a **Flask-based web application** that analyzes the sentiment of user-provided text in **any language**. It uses **Google Translate** to convert text into English and then uses **TextBlob** for sentiment analysis.
@@ -116,14 +115,10 @@ project/
 ## 📸 Screenshots
 
 
+<img src="https://github.com/user-attachments/assets/0ffcc6c8-f9fb-42f9-988d-ff3e32b31808" alt="Output Image" width="600"/>
 
-![WhatsApp Image 2025-05-29 at 09 15 01_a5082184](https://github.com/user-attachments/assets/0ffcc6c8-f9fb-42f9-988d-ff3e32b31808)
 
 ---
-
-## 🔐 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
